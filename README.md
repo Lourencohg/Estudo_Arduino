@@ -1,4 +1,4 @@
-# Estudo_Arduino
+# :factory: Estudo_Arduino
 
 Repositório pessoal e central de conhecimento dedicada aos meus estudos, anotações e projetos práticos com a plataforma de prototipagem eletrônica Arduino.
 
